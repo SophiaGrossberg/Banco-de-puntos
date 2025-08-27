@@ -1,0 +1,33 @@
+.contador-card {
+  background: #8565c4;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  width: 200px;
+}
+
+.contador-card img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.contador-card h2 {
+  margin: 10px 0;
+}
+
+.botones{
+    width: 40px;
+    height: 40px;
+    border-radius: 20%;
+    background-color: #654b98;
+    margin: 5%;
+    border: #654b98;
+}
+.botones:hover{
+    background-color: #493a68;
+}
+
